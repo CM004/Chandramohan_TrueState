@@ -4,6 +4,14 @@
 
 A  web application that helps Indian users aged 20-35 find their perfect neighborhood based on lifestyle preferences using advanced cosine similarity algorithms and real-time data integration.
 
+<img width="1470" alt="Screenshot 2025-07-10 at 3 59 56 AM" src="https://github.com/user-attachments/assets/83c52d07-3380-4557-982a-8594ea548664" />
+
+<img width="1470" alt="Screenshot 2025-07-10 at 4 00 03 AM" src="https://github.com/user-attachments/assets/cbbd4477-0de8-4817-acb6-e0a8289b1096" />
+
+<img width="1470" alt="Screenshot 2025-07-10 at 3 59 37 AM" src="https://github.com/user-attachments/assets/f773118d-1da5-4154-87c9-7b22f6bad343" />
+
+<img width="1470" alt="Screenshot 2025-07-10 at 3 59 45 AM" src="https://github.com/user-attachments/assets/62155528-9396-4137-8188-dc141c6186b7" />
+
 ## 🎯 Problem Statement
 
 Young professionals aged 20-35 in India struggle to find neighborhoods that truly match their lifestyle—such as safety, walkability, healthcare access, and fast internet preferences beyond traditional filters like price and commute distance, leading to compromised living decisions and reduced quality of life in India's rapidly urbanizing cities.
