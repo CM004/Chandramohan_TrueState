@@ -1,0 +1,29 @@
+{
+  "name": "neighborfit-backend",
+  "version": "1.0.0",
+  "description": "Backend API for NeighborFit - Indian neighborhood matching app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "bottleneck": "^2.19.5",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "neighborhood",
+    "matching",
+    "cosine-similarity",
+    "india"
+  ],
+  "author": "NeighborFit Team",
+  "license": "MIT"
+}
